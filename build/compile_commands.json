@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ljk/c++/slam/build",
+  "command": "/usr/bin/c++  -I/home/ljk/c++/slam/sophus -I/usr/include/eigen3 -g -o CMakeFiles/liaun.dir/liqun.cpp.o -c /home/ljk/c++/slam/liqun.cpp",
+  "file": "/home/ljk/c++/slam/liqun.cpp"
+},
+{
+  "directory": "/home/ljk/c++/slam/build",
+  "command": "/usr/bin/c++  -I/home/ljk/c++/slam/sophus -I/usr/include/eigen3 -g -o CMakeFiles/liaun.dir/sophus/so3.cpp.o -c /home/ljk/c++/slam/sophus/so3.cpp",
+  "file": "/home/ljk/c++/slam/sophus/so3.cpp"
+},
+{
+  "directory": "/home/ljk/c++/slam/build",
+  "command": "/usr/bin/c++  -I/home/ljk/c++/slam/sophus -I/usr/include/eigen3 -g -o CMakeFiles/liaun.dir/sophus/se3.cpp.o -c /home/ljk/c++/slam/sophus/se3.cpp",
+  "file": "/home/ljk/c++/slam/sophus/se3.cpp"
+}
+]
